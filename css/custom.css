@@ -1,0 +1,28 @@
+/*
+Developd by:
+ Md. Aminul Islam (SHEZAN) & Tasmim Islam
+*/
+
+/*This is Custom CSS file*/
+
+#suggestions span{
+  color: #FFF;
+  background-color: #000000;
+  border: 1px solid #0000FF;
+  margin: 3px;
+  padding: 1px;
+}
+
+.hvr tbody tr:hover{
+	cursor: pointer;
+	background-color: #E6EF3A
+}
+
+.tbc{
+	color: #FFF;
+	background-color: #428BCA;
+}
+
+.myElement td input{
+	width: 100%;
+}
