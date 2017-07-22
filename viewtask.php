@@ -184,7 +184,7 @@ input[type=text] {
         <div class="row">
             <div class="panel panel-primary filterable">
                 <div class="panel-heading">
-                    <h3 class="panel-title">Group Leader Info</h3>
+                    <h3 class="panel-title">View Tasks</h3>
                     <div class="pull-right">
                        
                     </div>
